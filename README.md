@@ -77,6 +77,6 @@ This game is released under the [MIT License](LICENSE), which means you're free 
 
 Get ready to laugh, jump, and dodge your way through an unforgettable stoner adventure in **The Secrets of the Bong**. Download the game, embrace the hilarity, and help Potthegreen achieve his ultimate goal – all while avoiding the clutches of the ever-watchful police!
 
-Compiled builds and screenshots @
+Compiled builds @
 [surtarso.itch.io](https://surtarso.itch.io/potthegreen-and-the-secrets-of-the-bong)
 ##### [Play me on a browser!](https://tarsogalvao.ddns.net/games/bong) (not optmized for browsers.)
