@@ -51,6 +51,8 @@ To play **The Secrets of the Bong**, follow these steps:
 
 4. Run the game from Godot and embark on Potthegreen's stoner adventure!
 
+Check out compiled builds at [surtarso.itch.io](https://surtarso.itch.io/potthegreen-and-the-secrets-of-the-bong) or [play on a browser](https://tarsogalvao.ddns.net/games/bong) (not optimized for browsers).
+
 ## Controls
 
 - **Arrow Left/Right:** Move Potthegreen left or right.
@@ -76,7 +78,3 @@ This game is released under the [MIT License](LICENSE), which means you're free 
 ---
 
 Get ready to laugh, jump, and dodge your way through an unforgettable stoner adventure in **The Secrets of the Bong**. Download the game, embrace the hilarity, and help Potthegreen achieve his ultimate goal – all while avoiding the clutches of the ever-watchful police!
-
-Compiled builds @
-[surtarso.itch.io](https://surtarso.itch.io/potthegreen-and-the-secrets-of-the-bong)
-##### [Play me on a browser!](https://tarsogalvao.ddns.net/games/bong) (not optmized for browsers.)
