@@ -51,7 +51,7 @@ To play **The Secrets of the Bong**, follow these steps:
 
 4. Run the game from Godot and embark on Potthegreen's stoner adventure!
 
-Check out compiled builds at [surtarso.itch.io](https://surtarso.itch.io/potthegreen-and-the-secrets-of-the-bong) or [play on a browser](https://tarsogalvao.ddns.net/games/bong) (not optimized for browsers).
+Check out compiled builds at [surtarso.itch.io](https://surtarso.itch.io/potthegreen-and-the-secrets-of-the-bong) or [play on a browser](https://tarsogalvao.ddns.net/v1/games/bong) (not optimized for browsers).
 
 ## Controls
 
